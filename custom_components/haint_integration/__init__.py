@@ -2,7 +2,7 @@
 Custom integration to integrate haint_integration with Home Assistant.
 
 For more details about this integration, please refer to
-https://github.com/ludeeus/haint_integration
+https://github.com/aaronwald/haint_integration
 """
 
 from __future__ import annotations

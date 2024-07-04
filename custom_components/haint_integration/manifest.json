@@ -2,11 +2,11 @@
   "domain": "haint_integration",
   "name": "Haint Integration",
   "codeowners": [
-    "@ludeeus"
+    "@aaronwald"
   ],
   "config_flow": true,
-  "documentation": "https://github.com/ludeeus/haint_integration",
+  "documentation": "https://github.com/aaronwald/haint_integration",
   "iot_class": "cloud_polling",
-  "issue_tracker": "https://github.com/ludeeus/haint_integration/issues",
+  "issue_tracker": "https://github.com/aaronwald/haint_integration/issues",
   "version": "0.0.0"
 }
